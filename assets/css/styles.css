@@ -354,6 +354,7 @@ footer p {
     #features .description {
         width: 100%;
         text-align: justify;
+        word-spacing: -2px;
         padding: 0%;
         height: 150px;
         margin-left: -88px;

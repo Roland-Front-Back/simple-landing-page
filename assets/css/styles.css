@@ -349,9 +349,10 @@ footer p {
     }
     .icon {
         position: relative;
-        left: 320px;
+        left: 310px;
         bottom: 20px;
         z-index: -1;
+        margin: 15px 15px;
     }
 }
 
@@ -362,7 +363,7 @@ footer p {
         padding: 0%;
         height: 150px;
         margin-left: -88px;
-        margin-top: 75px;
+        margin-top: 90px;
     }
 }
 
@@ -380,7 +381,7 @@ footer p {
         align-items: center;
     }
     .product {
-        width: 60vw;
+        width: 65vw;
     }
 }
 
@@ -409,7 +410,7 @@ footer p {
 
     #guide iframe {
         width: 350px;
-
+        height: 200px;
     }
 
     .text-video {

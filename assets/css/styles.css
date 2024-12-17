@@ -148,7 +148,7 @@ li {
     height: 125px;
     width: 20vw;
     color: black;
-    margin: 0 0 -100px -300px;
+    margin: 0 0 -100px -285px;
 }
 
 #features .description {
@@ -159,7 +159,6 @@ li {
     width: 35vw;
     padding: 4px;
     text-align: justify;
-    word-break: break-word;
 }
 
 #guide {
@@ -360,12 +359,9 @@ footer p {
         margin-left: -88px;
         margin-top: 65px;
         word-spacing: -2px;
-        word-break: break-all;
     }
     .description p {
-        text-align: left;
-        word-break: break-all;
-        
+        text-align: justify;        
     }
 }
 

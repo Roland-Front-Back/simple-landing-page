@@ -360,7 +360,10 @@ footer p {
         margin-top: 65px;
     }
     .description p {
-        text-align: center;        
+        text-align: center;
+        font-size: 10px;     
+        font-style: normal;
+        font-weight: 400;  
     }
 }
 

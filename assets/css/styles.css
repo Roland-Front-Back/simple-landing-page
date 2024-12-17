@@ -353,7 +353,7 @@ footer p {
 @media (max-width: 550px) {
     #features .description {
         width: 100%;
-        text-align: left;
+        text-align: center;
         padding: 0%;
         height: 150px;
         margin-left: -88px;
@@ -361,7 +361,7 @@ footer p {
         word-spacing: -2px;
     }
     .description p {
-        text-align: justify;        
+        text-align: center;        
     }
 }
 
